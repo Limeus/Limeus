@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java backend developer · MAI student · Finalist of the T1 "System Takeoff" hackathon<br>I enjoy building backend systems, exploring new technologies, and learning by doing.<br>Always up for a challenge and looking to grow by working with smart, driven people.
+Java / Kotlin backend developer · MAI student · Finalist of the T1 "System Takeoff" hackathon<br>I enjoy building backend systems, exploring new technologies, and learning by doing.<br>Always up for a challenge and looking to grow by working with smart, driven people.
 
 
 ## 🌐 Socials:
